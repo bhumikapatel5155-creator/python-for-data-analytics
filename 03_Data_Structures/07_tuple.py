@@ -1,0 +1,6 @@
+coordinates = (10, 20, 30, 40)
+print("Tuple:", coordinates)
+print("First element:", coordinates[0])
+print("Last element:", coordinates[-1])
+print("Length:", len(coordinates))
+print("Sliced tuple:", coordinates[1:3])
