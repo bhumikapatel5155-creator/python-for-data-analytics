@@ -1,0 +1,4 @@
+Name: Bhumika
+Branch: AIML
+CGPA: 7.03
+City: Jabalpur
